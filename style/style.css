@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    background: lightgrey;
+}
+#Navigator {
+    width: 100px;
+    height: 50px;
+    background: lightblue;
+    margin-right: 10px;
+    text-align: center;
+
+}
