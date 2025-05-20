@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Software Developer",
+    "position": "Full Stack Developer",
+    "location": "New York, NY",
+    "time": "Jan 2020 - Dec 2022",
+    "skills": ["JavaScript", "React", "Node.js", "SQL", "Git"]
+  },
+  {
+    "title": "IT Support Specialist",
+    "position": "Technical Support Analyst",
+    "location": "Chicago, IL",
+    "time": "Jun 2018 - Dec 2019",
+    "skills": ["Windows", "Networking", "Troubleshooting", "Customer Service"]
+  },
+  {
+    "title": "Web Designer",
+    "position": "Front-End Developer",
+    "location": "Remote",
+    "time": "Mar 2016 - May 2018",
+    "skills": ["HTML", "CSS", "JavaScript", "Photoshop", "Responsive Design"]
+  },
+  {
+    "title": "Data Entry Clerk",
+    "position": "Administrative Assistant",
+    "location": "San Diego, CA",
+    "time": "Jan 2015 - Feb 2016",
+    "skills": ["Excel", "Typing", "Data Accuracy", "File Management"]
+  }
+]
