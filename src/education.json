@@ -1,0 +1,22 @@
+[
+    {
+        "school name" : "high school",
+        "location": "city",
+        "time": "then-later",
+        "degree": "", 
+        "gpa": 4.07, 
+        "notable classes": [],
+        "notable acheviments":[]
+
+    },
+        {
+        "school name" : "college",
+        "location": "city",
+        "time": "then-later",
+        "degree": "", 
+        "gpa": 3.98, 
+        "notable classes": [],
+        "notable acheviments":[]
+
+    }
+]
